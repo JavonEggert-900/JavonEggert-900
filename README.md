@@ -1,21 +1,27 @@
-<h1>Hi, I'm Javon Eggert, an <a href="https://www.linkedin.com/in/javon-eggert-1ba15b234/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Javon Eggert, an <a href="https://www.linkedin.com/in/javon-eggert-1ba15b234/">IT Professional</a> 👨🏽‍💻</h1>
 
-<h2> 👨🏽‍💻 Information Technology Projects:</h2>
+<h2>☁️ Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JavonEggert-900/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/JavonEggert-900/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JavonEggert-900/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+<b>Microsoft Azure — Cloud Infrastructure & Networking</b>
 
-<h2>🤳Connect with me:</h2>
+- [Azure Cloud Storage and Resource Management — Resource Group, Storage Account and Blob Container Deployment](https://github.com/JavonEggert-900/Azure-Cloud-Storage-Resource-Management-Resource-Group-Storage-and-Blob-Container-Deployment)
+- [Azure Compute and Networking — Virtual Machine Deployment and Network Traffic Analysis](https://github.com/JavonEggert-900/Azure-Compute-and-Networking-Virtual-Machine-Deployment-and-Network-Traffic-Analysis)
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<b>IT Support & Help Desk</b>
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+- [IT Support & Cloud Ticketing System — osTicket Deployment on Azure](https://github.com/JavonEggert-900/IT-Support-Cloud-Ticketing-System-osTicket-Deployment-on-Azure)
+
+<b>Coming Soon</b>
+
+- Azure Virtual Private Networks (VPNs) — Setup and Usage
+- Active Directory — Deployment and Configuration within Azure VMs
+- DNS — Understanding and Building Intuition
+- Network File Shares and Permissions
+
+<h2>🤝 Connect with me:</h2>
+
+[<img align="left" alt="Javon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Javon | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]: https://linkedin.com/in/javon-eggert-1ba15b234
+[gmail]: mailto:jeggert9000@gmail.com
